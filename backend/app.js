@@ -3,7 +3,7 @@ const app = express();
 
 
 app.get('/', (req, res)=> {
-    res.send('Zamper is live....')
+    res.send('Zamper is live...')
 })
 
 
